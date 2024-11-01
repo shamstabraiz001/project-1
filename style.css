@@ -1,0 +1,14 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+body{
+    background-color: rgb(207, 207, 207);
+}
+.profile{
+    width: 80px;
+    border-radius: 50%;
+}
+.heading{
+    padding-left: 2rem;
+}
